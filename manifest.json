@@ -1,11 +1,13 @@
 {
-  "name": "Thetabetaplays Link Hub",
-  "description": "A Link hub to reach Thetabetaplays Content ",
+  "name": "Link Hub",
+  "description": "Eklenti açıklaması buraya yazılabilir.",
   "version": "1.0.0",
   "manifest_version": 3,
-
+  "icons": {
+    "48": "img/code.png"
+  },  
   "action": {
-    "default_icon": "img/icon.png",
+    "default_icon": "img/code.png",
     "default_popup": "popup.html"
   }
 }
