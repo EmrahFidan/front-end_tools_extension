@@ -16,9 +16,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/Language-JavaScript-yellow.svg"/>
 </a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img alt="Developed with Visual Studio Code" src="https://img.shields.io/badge/Developed%20with-Visual%20Studio%20Code-purple"/>
-</a>
   <a class="header-badge" target="_blank" href="https://github.com/EmrahFidan/front-end_tools_extension/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/PritamSarbajna/tourism-website?color=darkred"/>
   </a>
@@ -28,13 +25,19 @@
 </h3>
 <br>
 
-This is a shortcut extension for frontend software players that they can use in their applications.
+This is a shortcut extension for players of front-end software that can be used by them in their own applications.
 
-<h2 style="color: #0081a7;"> Features </h2>
+<h2 style="colour: #0081a7;"> Features </h2>
 
-- HTML, CSS, JavaScript 
-- Extension  
-- Clean Code 
+Here are some of the key features of this project:
+
+- HTML, CSS, JavaScript: This project is primarily built using HTML, CSS and JavaScript, making it compatible with web browsers and ensuring a smooth user experience.
+
+- Extension: [Specify the function of the extension here. You can provide details about what the extension does, its benefits, and how it enhances the project].
+
+- Clean Code: The project follows best practices for code organisation and cleanliness, making it easier to maintain and evolve.
+
+
 
 <h2 style="color: #0081a7;"> LINKS </h2>
 
